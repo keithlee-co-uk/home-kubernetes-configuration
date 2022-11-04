@@ -17,7 +17,7 @@ on PI-1
 pasting the result to PI-3
 
 I got error messages along the line of  
-`Connection failed. The hostname (pi4-kube-n) of the joining node does not resolve to the IP`  
+`Connection failed. The hostname (kube<n>) of the joining node does not resolve to the IP`  
 I found dropping the wlan0 interface so that only the eth0 interfce could be seen helped
 
 `sudo ifconfig wlan0 down`
