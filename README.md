@@ -1,5 +1,5 @@
 
-# Home-Kubernetes-Configuration
+# Home Kubernetes Configuration
     The configuration I'm using updated as I start to understand how the Kubernetes eco-system works.
     
 [Installing the Cluster](https://github.com/keithlee-co-uk/home-kubernetes-configuration/blob/master/docs/Installing-the-Cluster.md)   
