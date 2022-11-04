@@ -1,4 +1,4 @@
-## install microk8s
+## Install microk8s
 `sudo snap install microk8s --classic`  
 
 add user to the microk8s group
