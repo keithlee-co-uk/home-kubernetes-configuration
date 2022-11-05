@@ -14,6 +14,9 @@ To have running a:
 ### Resilient - meaning a power outage on one or two nodes the service remains up.  
 This will mean we want a Service or maybe to load balance the end-points - not sure yet.  
 
+### Metallb install
+Following the [MetalLb Installation instructions](https://metallb.universe.tf/installation/)
+
 ![Logo](https://github.com/keithlee-co-uk/home-kubernetes-configuration/blob/master/images/Kubernetes-Logo.wine.png)
 
 
