@@ -7,7 +7,7 @@
 
 ## Objetives
 To have running a:  
-- Resilient Dashboard  
+- Resilient [Dashboard](https://github.com/keithlee-co-uk/home-kubernetes-configuration/blob/master/docs/Dashboard.md)  
 - Resilient DNS  
 - Resilient Monitoring  
 
@@ -15,11 +15,6 @@ To have running a:
 This will mean we want a Service or maybe to load balance the end-points - not sure yet.  
 
 ---
-[Ref](https://ubuntu.com/tutorials/install-a-local-kubernetes-with-microk8s#3-enable-addons)  
-### Dashboard Install
-`microk8s enable dns dashboard`  
-
-
 ### Metallb install
 Following the [MetalLb Installation instructions](https://metallb.universe.tf/installation/)  
 Intended Network:  
