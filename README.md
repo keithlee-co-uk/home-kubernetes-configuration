@@ -15,7 +15,11 @@ To have running a:
 This will mean we want a Service or maybe to load balance the end-points - not sure yet.  
 
 ### Metallb install
-Following the [MetalLb Installation instructions](https://metallb.universe.tf/installation/)
+Following the [MetalLb Installation instructions](https://metallb.universe.tf/installation/)  
+Intended Network:  
+Network:   192.168.0.192  
+IP range:  192.168.0.193 - 192.168.0.222  
+Broadcast: 192.168.0.223  
 
 ![Logo](https://github.com/keithlee-co-uk/home-kubernetes-configuration/blob/master/images/Kubernetes-Logo.wine.png)
 
