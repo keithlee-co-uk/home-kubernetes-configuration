@@ -39,3 +39,6 @@ sudo vim /etc/apt/apt.conf.d/50unattended-upgrades
 Cgroups allow you to allocate resources — such as CPU time, system memory, network bandwidth, or combinations of these resources
 `sudo vim /boot/cmdline.txt`  
 `cgroup_enable=memory cgroup_memory=1`  
+
+### Additional Package
+`sudo apt install linux-modules-extra-raspi`  
