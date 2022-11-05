@@ -5,6 +5,14 @@
 [Installing the Cluster](https://github.com/keithlee-co-uk/home-kubernetes-configuration/blob/master/docs/Installing-the-Cluster.md)   
 [Install (microk8s) Kubernetes](https://github.com/keithlee-co-uk/home-kubernetes-configuration/blob/master/docs/Install-Kubernetes.md)  
 
+## Objetives
+To have running a:  
+- Dashboard  
+- Resilient DNS  
+- Resilient Monitoring  
+
+* Resilient - meaning a power outage on one or two nodes the service remains up.  
+
 ![Logo](https://github.com/keithlee-co-uk/home-kubernetes-configuration/blob/master/images/Kubernetes-Logo.wine.png)
 
 
