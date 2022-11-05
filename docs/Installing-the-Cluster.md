@@ -19,7 +19,7 @@ by adding the following to the bottom of each `~/.bashrc` file
 
 
 --
-
+[Ref](https://linuxhint.com/enable-disable-unattended-upgrades-ubuntu/)  
 ### Configuring unattended-upgrades
 ```
 sudo dpkg-reconfigure -f noninteractive unattended-upgrades
