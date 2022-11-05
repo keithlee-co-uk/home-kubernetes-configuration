@@ -18,7 +18,7 @@ by adding the following to the bottom of each `~/.bashrc` file
 `export PATH=$PATH:/snap/bin`
 
 
---
+--  
 [Ref](https://linuxhint.com/enable-disable-unattended-upgrades-ubuntu/)  
 ### Configuring unattended-upgrades
 ```
@@ -33,8 +33,7 @@ sudo vim /etc/apt/apt.conf.d/50unattended-upgrades
 `Unattended-Upgrade::Automatic-Reboot-Time "02:00"; # on PI-2`  
 `Unattended-Upgrade::Automatic-Reboot-Time "03:00"; # on PI-3`  
 
---
-
+--  
 [Ref](https://microk8s.io/docs/install-raspberry-pi)  
 ### Configure the memory Control Group
 - I believe that this is required by microk8s, possibly any kubernetes install
