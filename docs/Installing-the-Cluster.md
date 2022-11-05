@@ -34,6 +34,8 @@ sudo vim /etc/apt/apt.conf.d/50unattended-upgrades
 `Unattended-Upgrade::Automatic-Reboot-Time "03:00"; # on PI-3`  
 
 --
+
+[Ref](https://microk8s.io/docs/install-raspberry-pi)  
 ### Configure the memory Control Group
 - I believe that this is required by microk8s, possibly any kubernetes install
 Cgroups allow you to allocate resources — such as CPU time, system memory, network bandwidth, or combinations of these resources
